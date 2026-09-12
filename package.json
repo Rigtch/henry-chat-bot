@@ -66,7 +66,7 @@
     "@swc/cli": "0.4.0",
     "@swc/core": "1.7.6",
     "@trilon/eslint-plugin": "^0.2.1",
-    "@types/express": "^4.17.21",
+    "@types/express": "^5.0.0",
     "@types/node": "^20.3.1",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
